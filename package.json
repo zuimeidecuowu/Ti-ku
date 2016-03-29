@@ -1,0 +1,28 @@
+{
+  "name": "knowledgesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "npm install": "npm install"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "webpack": "^1.10.1"
+  },
+  "dependencies": {
+    "browserify": "^12.0.1",
+    "classnames": "^2.2.0",
+    "react": "^0.14.2",
+    "react-date-range": "^0.1.8",
+    "react-dom": "^0.14.2",
+    "react-redux": "^4.0.0",
+    "reactify": "^1.1.1",
+    "reflux": "^0.3.0",
+    "simditor": "^2.3.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
